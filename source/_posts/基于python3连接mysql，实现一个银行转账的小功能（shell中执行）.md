@@ -1,7 +1,7 @@
 ---
-title: 域名解析后主机记录和记录值怎么填写？都是什么意思？
+title: 基于python3连接mysql，实现一个银行转账的小功能（shell中执行）
 date: 2017-07-31 17:50:33
-tags: 域名
+tags: [python, MySQL]
 ---
 
 基于python3连接mysql，实现一个银行转账的小功能（shell中执行）

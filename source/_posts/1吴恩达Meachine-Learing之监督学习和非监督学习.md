@@ -1,7 +1,7 @@
 ---
-title: 域名解析后主机记录和记录值怎么填写？都是什么意思？
+title: 1吴恩达Meachine-Learing之监督学习和非监督学习
 date: 2017-07-31 17:50:33
-tags: 域名
+tags: 机器学习
 ---
 
 ## 监督学习（Supervised Learning）

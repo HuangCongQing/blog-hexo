@@ -1,7 +1,7 @@
 ---
-title: 域名解析后主机记录和记录值怎么填写？都是什么意思？
+title: 3吴恩达Meachine-Learing之线性代数回顾-(Linear-Algebra-Review)
 date: 2017-07-31 17:50:33
-tags: 域名
+tags: 机器学习
 ---
 
 ![线性代数，不知多少人对这本书很是熟悉，哈哈](http://upload-images.jianshu.io/upload_images/4340772-6d5a90dce8026e93.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
