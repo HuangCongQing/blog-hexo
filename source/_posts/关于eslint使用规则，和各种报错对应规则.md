@@ -1,7 +1,7 @@
 ---
 title: HTML5-Canvas之矩阵和多边形的绘制（2）
 date: 2016-12-25 17:50:33
-tags: [html5, JavaScript]
+tags: [技术杂谈, eslint]
 ---
 
 
