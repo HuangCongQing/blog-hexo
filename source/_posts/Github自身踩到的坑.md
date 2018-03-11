@@ -110,4 +110,31 @@ Enter file in which to save the key (/home/forwhat.cn/.ssh/id_rsa):
 
 需要注意步骤2中产生的密钥文件在当前用户的根目录，必须把这两个文件放到当前用户目录的“.ssh”目录下才能生效。
 
+------------2017/8/14
+
+### `There is no tracking information for the current branch. Please specify which branch you want to merge with.`
+![mark](http://upload-images.jianshu.io/upload_images/4340772-102101ffa8f94bcd.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+> 是因为本地分支和远程分支没有建立联系  (使用git branch -vv  可以查看本地分支和远程分支的关联关系)  .根据命令行提示只需要执行以下命令即可
+* 如果不想新建分支
+`git branch --set-upstream master origin/master`
+* 如果想新建分支
+`git branch --set-upstream-to=origin/远程分支的名字 本地分支的名字 `
+
+ `git branch –set-upstream-to=origin/develop develop `
+或 
+`git branch --set-upstream develop origin/develop `
+（develop为新建分支name）
+同时推荐大家看一下下面这篇--创建于合并分支https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/001375840038939c291467cc7c747b1810aab2fb8863508000
+
+---
+
+### 2018-2-26关闭 pull request（Closing a pull request）
+因为pull request错了，所以想取消pull request，怎么做呢？
+看图吧
+![](http://upload-images.jianshu.io/upload_images/4340772-d732e12bd4ea7f26.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![](http://upload-images.jianshu.io/upload_images/4340772-1d695f3e9dd00329.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 坑不会踩完的，但会一直进步着，大家加油......
