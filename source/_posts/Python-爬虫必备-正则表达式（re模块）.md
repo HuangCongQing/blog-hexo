@@ -17,7 +17,7 @@ tags: python
 
 下面是Python中正则表达式的一些匹配规则，图片资料来自CSDN
 ![正则表达式](http://upload-images.jianshu.io/upload_images/4340772-b0baf49f04744a80.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
+<!-- more -->
 
 ## 正则表达式特别强调
 
