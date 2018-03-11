@@ -7,6 +7,7 @@ tags:
 
 >用Github有一两年了，是时候总结一下以前踩得坑了，这些坑开始时还真把自己摔得不轻！！！！！
 小插曲：自己以前用hexo搭建的博客，每次写博客都要新建.md文件等初始化步骤,然后提交，有些繁琐，再加上自己又换了台电脑，又要部署hexo（虽然不需要重新部署），但还是有些步骤，索性用简书写，方便快捷些！
+
 <!-- more -->
 ### git pull时`ssh: Could not resolve hostname github.com: Name or service not known, fatal: Could not read from remote repository.`
 

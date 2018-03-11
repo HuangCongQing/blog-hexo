@@ -32,7 +32,7 @@ AngularJS 可以克隆和重复 HTML 元素。
 AngularJS 可以隐藏和显示 HTML 元素。
 AngularJS 可以在 HTML 元素"背后"添加代码。
 AngularJS 支持输入验证。
-
+<!-- more -->
 * 举个荔枝（例子）吧！
 ```
 <<!DOCTYPE html>

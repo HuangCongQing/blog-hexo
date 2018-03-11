@@ -12,7 +12,7 @@ tags:  工具
 下载之后的界面：
 ![mark](http://ojmcn9nlw.qnssl.com/blog/20170116/230234883.png)
 ## 下面介绍一下下载软件之后的操作步骤：
-
+<!-- more -->
 下载之后首先就是注册账号
 ![mark](http://ojmcn9nlw.qnssl.com/blog/20170112/143020429.png)
 注意几个问题：

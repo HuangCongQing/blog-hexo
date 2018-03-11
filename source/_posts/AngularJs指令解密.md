@@ -27,6 +27,7 @@ function myDirective($timeout, UserDefinedService) {
   // 指令定义放在这里
 }
 ```
+<!-- more -->
 >尽管在上面的的代码片段中我们定义了一个命名为myDirective的指令,AngularJS约定在 HTML 标记里使用**破折号的形式连接名字**。如果这个指令作为一个属性实现，那么我在 HTML 中就会像这样调用：`<span my-directive></span>`
 
 还有：directive()方法可以接受两个参数：

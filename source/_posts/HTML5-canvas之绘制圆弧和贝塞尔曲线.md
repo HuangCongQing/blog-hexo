@@ -23,7 +23,7 @@ ctx.arc( 圆心x坐标, 圆心y坐标, 圆的半径r , 开始角度, 结束角�
 ![圆弧][1]
 
 我们来一个例子，绘制一个圆心坐标为(80,80)，半径为40，开始角度为30度，结束角度为90度，那么可以这样绘制：
-
+<!-- more -->
 ```
 <canvas id="myCanvas" width="200" height="200" style="border:solid 1px #CCC;">
 您的浏览器不支持canvas，建议使用最新版的Chrome

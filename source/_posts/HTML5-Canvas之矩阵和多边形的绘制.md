@@ -13,7 +13,7 @@ tags: [html5, JavaScript]
 今天我们来讲讲矩形（Rectangle）和多边形的绘制。
 
 矩形的绘制一共有两个口令，分别是 **ctx.fillRect(x, y, width, height) 和 ctx.strokeRect(x, y, width, height)** ，参数中的 x 和 y 依旧表示需绘制的矩形的起始点坐标（相对canvas原点），width 和 height表示需绘制的矩形宽高。
-
+<!-- more -->
 而 fillRect 表示绘制一个实心矩形，strokeRect 表示绘制一个描边矩形，我们来一个简单的例子：
 ```
 <canvas id="myCanvas" width="200" height="200" style="border:solid 1px #CCC;">

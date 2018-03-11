@@ -28,6 +28,7 @@ var c = document.getElementById("myCanvas"); //获取要操作的canvas
 //操作canvas的代码...
 </script>
 ```
+<!-- more -->
 注意最好在一开始的时候就给canvas设置好其宽高（若不设定宽高，浏览器会默认设置canvas大小为宽300、高100像素），而且不能使用css来设置（会被拉伸），建议直接写于canvas标签内部：
 
     <canvas id="myCanvas" width="200" height="200"></canvas>
