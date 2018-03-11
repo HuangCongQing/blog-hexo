@@ -10,7 +10,7 @@ tags: [python, MySQL]
 * imooc的数据库
 * 名字为account的表
 * 表里面键值（acctid,money）
-
+<!-- more -->
 * 下面是代码：
 ```
 # -*- coding: utf-8 -*-

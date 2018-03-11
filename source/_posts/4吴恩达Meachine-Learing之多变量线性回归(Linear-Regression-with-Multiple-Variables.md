@@ -12,7 +12,7 @@ tags: 机器学习
 <!-- more -->
 ![](http://upload-images.jianshu.io/upload_images/4340772-1f191d21e55d98f4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 增添更多特征后，我们引入一系列新的注释：
-
+<!-- more -->
 ![](http://upload-images.jianshu.io/upload_images/4340772-180da621f43c6f22.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
