@@ -1,5 +1,5 @@
 ---
-title: HTML5-Canvas之矩阵和多边形的绘制（2）
+title: 关于eslint使用规则，和各种报错对应规则
 date: 2016-12-25 17:50:33
 tags: [技术杂谈, eslint]
 ---
