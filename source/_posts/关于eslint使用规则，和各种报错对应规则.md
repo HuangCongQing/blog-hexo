@@ -8,7 +8,7 @@ tags: [技术杂谈, eslint,vue]
 ![Eslint](http://upload-images.jianshu.io/upload_images/4340772-bea77f051e95f2be.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 >在用vue2.0写项目时，由于vue-cli脚 架自动带了带了代码规范监测，稍微不小心就会出现一些Warning,这时就需要，根据自己习惯的代码规范，用一下代码进行对Eslint规范的一些忽略。下面详细介绍一下：
-
+<!-- more -->
 ESLint 由 JavaScript 红宝书 作者 Nicholas C. Zakas 编写， 2013 年发布第一个版本。 NCZ 的初衷不是重复造一个轮子，而是在实际需求得不到 JSHint 团队响应 的情况下做出的选择：以可扩展、每条规则独立、不内置编码风格为理念编写一个 lint 工具。
 **ESLint 主要有以下特点：**
 * 默认规则包含所有 JSLint、JSHint 中存在的规则，易迁移；
