@@ -1,7 +1,7 @@
 ---
 title: 关于eslint使用规则，和各种报错对应规则
-date: 2016-12-25 17:50:33
-tags: [技术杂谈, eslint]
+date: 2018-01-22 17:50:33
+tags: [技术杂谈, eslint,vue]
 ---
 
 
