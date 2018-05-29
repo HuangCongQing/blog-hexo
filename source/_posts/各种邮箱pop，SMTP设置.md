@@ -89,3 +89,5 @@ QQ还开发了邮我功能：
 
 ![mark](http://upload-images.jianshu.io/upload_images/4340772-92598536682d6972.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ![mark](http://upload-images.jianshu.io/upload_images/4340772-776fad760ed07301.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+我的博客即将搬运同步至腾讯云+社区，邀请大家一同入驻：https://cloud.tencent.com/developer/support-plan?invite_code=v7lccogb0nze
